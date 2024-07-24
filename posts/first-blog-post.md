@@ -9,7 +9,7 @@ allow_math: true
 # Scavanger Hunt Around RMIT
 ## An Explosive Cup Of Coffee
 
-![photo1](static/Photo1.JPG)
+![photo1]()
 
 Through insider knowledge, and bit of curiosity we head outside of RMIT building to stumble upon a small cafe, "Little bang". The unique logo of a steaming cup of joe inside a silhouette of a bomb creates an explosive cup of coffee suitable to tick this off the list
 
@@ -17,11 +17,11 @@ Through insider knowledge, and bit of curiosity we head outside of RMIT building
 
 ## A Book Containing Digital Media Wisdom, Found Amongst Many
 
-![books](static/Photo2.JPG)
+![books]()
 
 With a little help and a lot of patience, we followed instructions from the guardians of the library to follow a trail leading to the designated book that holds the key to all digital media wisdom.
 
-## A Wide Net Strung Above, Bulging under the weight of its flying paper cargo
+## A Wide Net Strung Above, Bulging Under the weight of its flying paper cargo
 
 ## A Curtain Of Roots, Delivered By A Winged Wisitor
 
