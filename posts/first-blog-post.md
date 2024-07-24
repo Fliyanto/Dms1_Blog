@@ -1,6 +1,6 @@
 ---
 title: First Exploration & Adventure
-published_at: 2022-11-04
+published_at: 2024-07-24
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
