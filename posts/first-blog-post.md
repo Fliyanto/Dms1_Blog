@@ -22,6 +22,8 @@ Through insider knowledge, and bit of curiosity we head outside of RMIT building
 With a little help and a lot of patience, we followed instructions from the guardians of the library to follow a trail leading to the designated book that holds the key to all digital media wisdom.
 
 ## A Wide Net Strung Above, Bulging Under the weight of its flying paper cargo
+![description](static/Cargo.jpeg) 
+
 
 ## A Curtain Of Roots, Delivered By A Winged Wisitor
 
