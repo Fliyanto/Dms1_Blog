@@ -37,15 +37,31 @@ A random pop up wall, covered with growing tree roots, amost magnificent to look
 A majestic gateway to put the condemned behind... Walking out of the gateway give you a taste of freedom, with the lights shining upon you as if the gods are giving you a permission to be free once again from all your responsibilities...
 
 ## A Study Space Fit For A Sith Lord
+![Sith Lord](static/Sith.jpeg)
 
+A daunting place of study, enveloped by futuristic seat and table design making you feel as if you are Darth Vader emerging from his meditation chamber... *Spookyyy*
 
 ## The Disembodied Hands Of A Great Ape
+![Gorilla](static/Gorilla.jpeg)
+
+Is it an ape? or a gorilla? Well we never got the answers to that during the scavanger hunt, thougt it made a great comfy seat for Dash!
 
 ## A Basement-dwelling Black Box, Bigger That You Might Think
+![Black Box](static/Box.jpeg)
+
+Honestly, at first we are kinda looking for a "*physical box*" but at a ridiculouse size... But we are told by some fellow students that the Black Box we are looking for is the room right behind us... Sooo... YEEPIE!
+
 
 ## A Wide Machine, Dispensing Beverages From A Far Away Land
+![Vending Machine](static/Vending.jpeg)
+
+A seemingly unlimited source of beverages... still wondering where those drinks come from?
 
 ## A Golden Globe Atop A Tower Of Eights
+![Golden Globe](static/Globe.jpeg)
+
+Wasn't The Golden Globe I had in mind when first hearing about it(*Was thinking of the Korean Golden Globe Awards*)...But let me tell you it is A "GRAND STATUE OF THE GOLDEN GLOBE" it is majestic in the clear sky and sunlight reflecting of it... *P.S To the person who made this scavanger hunt it's very cheeky of you this one is tough... But aint enough for us*
+
 
 *This is italic.*[^1]
 
