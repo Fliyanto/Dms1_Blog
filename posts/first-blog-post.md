@@ -9,9 +9,9 @@ allow_math: true
 # Scavanger Hunt Around RMIT
 
 ## An Explosive Cup Of Coffee
-![Coffee](static/logo.svg)
+![COFFEE](static/Coffee.jpeg)
 
-Through insider knowledge, and bit of curiosity we head outside of RMIT building to stumble upon a small cafe, "Little bang". The unique logo of a steaming cup of joe inside a silhouette of a bomb creates an explosive cup of coffee suitable to tick this off the list
+Through insider knowledge, and bit of curiosity we head outside of RMIT building to stumble upon a small cafe, "Little bang". The unique logo of a steaming cup of joe inside a silhouette of a bomb creates an explosive cup of coffee suitable to tick this off the list.
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
@@ -21,16 +21,23 @@ Through insider knowledge, and bit of curiosity we head outside of RMIT building
 With a little help and a lot of patience, we followed instructions from the guardians of the library to follow a trail leading to the designated book that holds the key to all digital media wisdom.
 
 ## A Wide Net Strung Above, Bulging Under the weight of its flying paper cargo
-![description](static/Cargo.jpeg) 
+![Cargo](static/Cargo.jpeg) 
 
-
+Hanging right above our heads all these times, stealthy watching over everyone passing by, you will only notice it when you look up or when you see things from a higher perspective... *Hint from the library window*
 
 
 ## A Curtain Of Roots, Delivered By A Winged Wisitor
+![Roots](static/Roots.jpeg)
+
+A random pop up wall, covered with growing tree roots, amost magnificent to look at, something you wouldn't expect a small tiny space corner with no much reason behind it's growth... Well sometimes its better to keep your nose away and enjoy the beauty of nature.
 
 ## A Door For The Condemned
+![Gateway](static/Gate.jpeg)
+
+A majestic gateway to put the condemned behind... Walking out of the gateway give you a taste of freedom, with the lights shining upon you as if the gods are giving you a permission to be free once again from all your responsibilities...
 
 ## A Study Space Fit For A Sith Lord
+
 
 ## The Disembodied Hands Of A Great Ape
 
