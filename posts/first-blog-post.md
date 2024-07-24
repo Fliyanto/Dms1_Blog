@@ -9,13 +9,33 @@ allow_math: true
 # Scavanger Hunt Around RMIT
 ## An Explosive Cup Of Coffee
 
-![photo1](photo1.jpg)
+![photo1](photo1.JPG)
 
 Through insider knowledge, and bit of curiosity we head outside of RMIT building to stumble upon a small cafe, "Little bang". The unique logo of a steaming cup of joe inside a silhouette of a bomb creates an explosive cup of coffee suitable to tick this off the list
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
-## This is h2
+## A Book Containing Digital Media Wisdom, Found Amongst Many
+
+![books](Photo2.jpg)
+
+With a little help and a lot of patience, we followed instructions from the guardians of the library to follow a trail leading to the designated book that holds the key to all digital media wisdom.
+
+## A Wide Net Strung Above, Bulging under the weight of its flying paper cargo
+
+## A Curtain Of Roots, Delivered By A Winged Wisitor
+
+## A Door For The Condemned
+
+## A Study Space Fit For A Sith Lord
+
+## The Disembodied Hands Of A Great Ape
+
+## A Basement-dwelling Black Box, Bigger That You Might Think
+
+## A Wide Machine, Dispensing Beverages From A Far Away Land
+
+## A Golden Globe Atop A Tower Of Eights
 
 *This is italic.*[^1]
 
