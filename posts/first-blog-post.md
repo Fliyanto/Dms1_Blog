@@ -8,7 +8,7 @@ allow_math: true
 
 # Scavanger Hunt Around RMIT
 ## An Explosive Cup Of Coffee
-![Cup Of Coffee](Explosive_Cup_Of_Coffee.JPG)
+![photo1](Explosive_Cup_Of_Coffee.JPG)
 Through insider knowledge, and bit of curiosity we head outside of RMIT building to stumble upon a small cafe, "Little bang". The unique logo of a steaming cup of joe inside a silhouette of a bomb creates an explosive cup of coffee suitable to tick this off the list
 
 ^ images are written like this: `![description](file_path/file_name.png)`
