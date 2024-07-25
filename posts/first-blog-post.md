@@ -63,31 +63,11 @@ Wasn't The Golden Globe I had in mind when first hearing about it(*Was thinking 
 
 # Footage Of Morning Rush In A Highrise Environment:
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7BX9QJHLW4c?si=dpa1VAWx1jxOY2kq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Cheeky Selfie Edit
-
-*This is italic.*[^1]
-
-[^1]: This is a footnote, *which can also be italic*.
-
-**This is bold.**
-
-Hyperlinks can be written like this: `[text](https://URL)`
-
-You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
-
-## Maths:
-
-... which can be written inline, like this: $\{ x, y, z \} \in \N$
-
-... or block, like this:
-
-$$ x^2 + y^2 = z^2 $$
-
-Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for more information about writing maths.
-
-## Embedding video:
-
-<iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
