@@ -13,7 +13,6 @@ allow_math: true
 
 Through insider knowledge, and bit of curiosity we head outside of RMIT building to stumble upon a small cafe, "Little bang". The unique logo of a steaming cup of joe inside a silhouette of a bomb creates an explosive cup of coffee suitable to tick this off the list.
 
-^ images are written like this: `![description](file_path/file_name.png)`
 
 ## A Book Containing Digital Media Wisdom, Found Amongst Many
 ![Books](Book.jpeg)
